@@ -22,9 +22,3 @@ s[0,10] => "hello"
 28. e = "..."
 
 29. "2 2 2 "
-
-30. %w separa palabras entre espacios.
-
-31. %w evalua los caracteres especiales separados por espacios.
-
-32. %W escribe literalmente cada palabra separada por espacios
