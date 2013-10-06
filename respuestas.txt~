@@ -6,7 +6,7 @@ las simples ('') lo escribe literalmente.
 
 22. %q funciona como las comillas dobles, interpreta los caracteres especiales.
 
-23. Q% funciona como las comillas simples, escribe literalmente.
+23. %Q funciona como las comillas simples, escribe literalmente.
 
 24. c = "--4--\n--2--\n"
 
@@ -148,6 +148,16 @@ Crear un objeto vacío de la calse Hash
 
 Los elementos del Hash son inicializados a 0 en el primer caso, mientras que
 con counts={} son inicializados a nil.
+
+54.
+=> ["hello", "world", "hello", "LPP"]
+
+55.
+Debería mostrar como salida a 'c' ordenado por las claves (a,b,c).
+Sin embargo da error de metodo indefinido para el simbolo b.
+
+
+
 
 
 

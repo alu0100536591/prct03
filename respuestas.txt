@@ -6,7 +6,7 @@ las simples ('') lo escribe literalmente.
 
 22. %q funciona como las comillas dobles, interpreta los caracteres especiales.
 
-23. Q% funciona como las comillas simples, escribe literalmente.
+23. %Q funciona como las comillas simples, escribe literalmente.
 
 24. c = "--4--\n--2--\n"
 
@@ -35,7 +35,7 @@ s[0,10] => "hello"
 
 35. b= [[1,2],[3,4]]
 
-36. [0,2,3] -> 0*2, 1*2, 2*2
+36. [0,2,4] -> 0*2, 1*2, 2*2
 
 37. 
 => ["b"]    
